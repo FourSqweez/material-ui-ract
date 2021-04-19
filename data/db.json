@@ -17,6 +17,18 @@
       "details": "fsfjfjsjfsajfkfkdksdj",
       "category": "reminders",
       "id": 4
+    },
+    {
+      "title": "test",
+      "details": "sfsfsfadfaf",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "test 2 ",
+      "details": "sfsfsfsf",
+      "category": "work",
+      "id": 6
     }
   ]
 }
